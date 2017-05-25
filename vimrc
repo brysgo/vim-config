@@ -83,7 +83,6 @@ else
   Plugin 'honza/vim-snippets'
   Plugin 'YankRing.vim'
   Plugin 'terryma/vim-multiple-cursors'
-  Plugin 'editorconfig/editorconfig-vim'
   Plugin 'tpope/vim-projectionist'
   Plugin 'kien/rainbow_parentheses.vim'
 
